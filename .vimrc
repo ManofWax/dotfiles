@@ -51,9 +51,9 @@ set laststatus=2 " always show the status line
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set fo=tcrqn " See Help (complex)
 set si " smartindent 
-set tabstop=8 " tab spacing (settings below are just to unify it)
-set softtabstop=8 " unify
-set shiftwidth=8 " unify 
+set tabstop=4 " tab spacing (settings below are just to unify it)
+set softtabstop=4 " unify
+set shiftwidth=4 " unify 
 set expandtab " space instead of tabs please!
 set nowrap " do not wrap lines  
 set textwidth=80
